@@ -10,11 +10,11 @@ In this Policy the following terms shall have the following meanings:
 - **"United Kingdom and EU Cookie Law"** means the relevant parts of the Privacy and Electronic Communications (EC Directive) Regulations 2003 as amended in 2004, 2011 and 2015.
 - **"We/Us/Our"** means [support@sports.com](mailto:support@sports.com)
 
-## Information About Us
+## Information about us
 
 Our Site, sports.com, is owned and operated by Lottery.com Inc. DBA SEGG Media Corporation.
 
-Address: 5049 Edwards Ranch Rd, 4th Floor, Fort Worth, TX 76109. We can be contacted at [support@sports.com](mailto:support@sports.com).
+Address: 5049 Edwards Ranch Rd, 4th Floor, Fort Worth, TX 76109 We can be contacted at [support@sports.com](mailto:support@sports.com).
 
 ## Scope — What Does This Policy Cover?
 
@@ -92,7 +92,7 @@ We may, from time to time, expand or reduce Our business and this may involve th
 
 When you submit information via Our Site, you may be given options to restrict Our use of your data. We aim to give you strong controls on Our use of your data (including the ability to opt-out of receiving emails from Us which you may do by unsubscribing using the links provided in Our emails and by managing your Account).
 
-## Your Right to Withhold Information and Your Right to Withdraw Information After You Have Given It
+### Your Right to Withhold Information and Your Right to Withdraw Information After You Have Given it
 
 You may access certain areas of Our Site without providing any data at all. However, to use all features and functions available on Our Site you may be required to submit or allow for the collection of certain data.
 
