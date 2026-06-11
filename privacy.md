@@ -1,163 +1,160 @@
-Last updated: May 2, 2026
+Last updated: June 11, 2026
 
-## Definitions and Interpretation
+## 1. Introduction
 
-In this Policy the following terms shall have the following meanings:
+This Privacy Policy (the "Policy") explains how Sports Predicts Limited *dba* Sports.com Predict (the "Company," "we," "us," or "our") handles information about the people who use our websites, applications, interfaces, and related tools (together, the "Services"). It covers what we collect, why we collect it, who we share it with, and the choices and rights available to you ("you" or "your").
 
-- **"Account"** means an account required to access and/or use certain areas and features of Our Site.
-- **"Cookie"** means a small text file placed on your computer or device by Our Site when you visit certain parts of Our Site and/or when you use certain features of Our Site.
-- **"Our Site"** means this website, sports.com
-- **"United Kingdom and EU Cookie Law"** means the relevant parts of the Privacy and Electronic Communications (EC Directive) Regulations 2003 as amended in 2004, 2011 and 2015.
-- **"We/Us/Our"** means [support@sports.com](mailto:support@sports.com)
+Please read this Policy alongside our Terms of Service (the "Terms"). Together they form the agreement between you and us. If you do not accept this Policy, please do not use the Services. By visiting, accessing, or otherwise using the Services — or by clicking "accept," "agree," or a similar control where one is offered — you agree to the practices described here and authorise us to collect and process information as set out below.
 
-## Information about us
+Sports Predicts Limited dba Sports.com Predict is a company incorporated in Malta with a registered office at Level 3, Theuma House 302, Triq San Pawl, Valletta, VLT 1213, Malta. For privacy-related inquiries, please contact [privacy@sports.com](mailto:privacy@sports.com)
 
-Our Site, sports.com, is owned and operated by Lottery.com Inc. DBA SEGG Media Corporation.
+## 2. What This Policy Covers
 
-Address: 5049 Edwards Ranch Rd, 4th Floor, Fort Worth, TX 76109 We can be contacted at [support@sports.com](mailto:support@sports.com).
+This Policy applies to information we collect through the Services. It does not apply to information collected offline, or to any separate website, product, or service that is operated by a third party or that has its own privacy notice — including services reached through links on our Services.
 
-## Scope — What Does This Policy Cover?
+Throughout this Policy, "personal information" means information that identifies, or can reasonably be linked to, a particular individual. It does not include data that has been aggregated or anonymised so that it no longer identifies anyone. Where information you give us contains details about other people, you confirm you are entitled to share it with us.
 
-This Privacy Policy applies only to your use of Our Site. It does not extend to any websites that are linked to from Our Site (whether We provide those links or whether they are shared by other users). We have no control over how your data is collected, stored or used by other websites and We advise you to check the privacy policies of any such websites before providing any data to them.
+Because the Services interact with public blockchains, please be aware that certain on-chain information is inherently public. This is explained further in Section 6.
 
-## What Data Do We Collect?
+## 3. Information We Collect
 
-Some data will be collected automatically by Our Site, other data will only be collected if you voluntarily submit it and consent to Us using it for the purposes set out in section 5, for example, when signing up for an Account. Depending upon your use of Our Site, We may collect some or all of the following data:
+We collect information in three broad ways: directly from you; automatically as you use the Services; and, in some cases, from third parties such as wallet providers, analytics partners, or data sources you have authorised. The categories below describe what this may include.
 
-- Name
-- Date and place of birth
-- Gender
-- Business/company name
-- Contact information such as email addresses and telephone numbers
-- Demographic information such as post code, preferences and interests
-- Financial information such as credit / debit card numbers (stored in accordance with Payment Card Industry regulations)
-- IP address (automatically collected)
-- Web browser type and version (automatically collected)
-- Operating system (automatically collected)
-- A list of URLs starting with a referring site, your activity on Our Site, and the site you exit to (automatically collected)
+### 3.1 Information You Give Us
 
-## How Do We Use Your Data?
+- **Account and profile details.** If you set up an account or profile, this may include a username, a display name, an email address, and any other details you choose to provide.
+- **Identity and verification material.** To protect the Services, meet our legal obligations, and confirm that you are not a Restricted Person, we may ask for additional information — for example, date of birth, residential address, or government-issued identification such as a passport, driving licence, or national identity card.
+- **Wallet information.** When you connect a self-custodied wallet, we receive its public address and associated on-chain activity. We never receive or hold your private keys, seed phrase, or passwords, and we cannot move your assets.
+- **Correspondence.** If you contact our support team, take part in a survey, or otherwise communicate with us, we keep a record of that correspondence and any information it contains.
 
-All personal data is stored securely in accordance with the EU General Data Protection Regulation (Regulation (EU) 2016/679) (GDPR).
+### 3.2 Information We Collect Automatically
 
-We use your data to provide the best possible products and services to you. This includes:
+- **Device and connection data.** When you use the Services, we automatically record technical details such as your IP address, browser type, operating system, device identifiers, language and time-zone settings, access times, and the pages or screens you view before and after visiting us.
+- **Usage data.** We log how you navigate and interact with the Services, which helps us understand engagement and improve performance.
+- **Location data.** We may determine your approximate or precise location — for example, from your IP address, device telemetry, IP analysis, VPN detection tools, and third-party verification providers, or, where available, GPS, Wi-Fi, or cell-network signals ("Location Data"). We use Location Data chiefly to enforce jurisdictional restrictions, manage risk, and help prevent fraud. If we are unable to confirm that you are not accessing the Services from a Restricted Jurisdiction, your access to certain features may be limited or blocked.
+- **Cookies and similar technologies.** We and selected partners use cookies and comparable tools, as described in Section 5.
 
-- To manage and promote our exhibitions and collections
-- Providing and managing your access to Our Site
-- Personalising and tailoring your experience on Our Site
-- To provide you with the services, products or information you have requested from us
-- Personalising and tailoring Our products and services for you
-- Responding to communications from you
-- Supplying you with email e.g. newsletters, alerts etc. that you have subscribed to (you may unsubscribe or opt-out at any time)
-- Market research
-- Analysing your use of Our Site and gathering feedback to enable Us to continually improve Our Site and your user experience
+### 3.3 Information From Third Parties
 
-With your permission and/or where permitted by law, We may also use your data for marketing purposes which may include contacting you by email, telephone, or text message with information, news and offers on Our products.
+We may receive information about you from third parties, such as wallet and infrastructure providers (for example, a connected wallet application), analytics providers, identity-verification services, and any account or platform you have linked to the Services. We handle information received this way in line with this Policy. Providing personal information is generally voluntary, but declining to provide certain information may prevent you from using some or all of the Services.
 
-We will not, however, send you any unsolicited marketing or spam and will take all reasonable steps to ensure that We fully protect your rights and comply with Our obligations under the GDPR and the Privacy and Electronic Communications (EC Directive) Regulations 2003, as amended in 2004, 2011 and 2015.
+## 4. How We Use Information
 
-Under GDPR we will ensure that your personal data is processed lawfully, fairly, and transparently, without adversely affecting your rights. We will only process your personal data if at least one of the following basis applies:
+We use the information we collect for the purposes below, relying as appropriate on your consent, our legitimate interests in running and improving the Services, the performance of our agreement with you, and compliance with law:
 
-- You have given consent to the processing of your personal data for one or more specific purposes
-- Processing is necessary for the performance of a contract to which you are a party
-- Processing is necessary for compliance with a legal obligation to which we are subject
-- Processing is necessary to protect the vital interests of you or of another natural person
-- Responding to communications from you
-- Processing is necessary for the performance of a task carried out in the public interest
-- Processing is necessary for the purposes of the legitimate interests pursued by us or by a third party
+- To create, operate, secure, and support your account and provide the Services;
+- To verify your identity and your eligibility to use particular features, and to confirm you are not a Restricted Person;
+- To determine whether you reside in, are located in, or are accessing the Services from a sanctioned country, embargoed jurisdiction, or other prohibited location;
+- To detect, investigate, and prevent fraud, abuse, security incidents, and other prohibited or unlawful activity, and to enforce our Terms and policies;
+- To apply jurisdictional and risk controls, including by reference to Location Data;
+- To respond to your enquiries, resolve disputes, and communicate with you about your account, transactions, or on-chain activity;
+- To personalise, measure, maintain, and improve the Services, and to research and develop new features;
+- To compile aggregated or anonymised statistics and analysis, which do not identify you, for internal use or to describe our business;
+- To send you administrative messages and, where permitted, marketing or promotional material you can opt out of;
+- To diagnose technical problems, debug errors, and ensure quality control;
+- We may use automated systems to assess eligibility, detect fraud, enforce jurisdictional restrictions, and support compliance decisions. Significant decisions are subject to appropriate review processes where required by law;
+- To meet our legal and regulatory obligations and to protect the rights, property, or safety of you, us, or others.
+- To meet our obligations for anti-money laundering (AML), sanctions screening, politically exposed person (PEP) screening, transaction monitoring, fraud prevention, suspicious activity investigations, and compliance with applicable financial crime laws; and
+- For blockchain analytics, wallet screening, sanctions screening, transaction monitoring, and risk scoring providers.
 
-## How and Where Do We Store Your Data?
+We do not sell your personal information for money. If you interact with an advertisement or promotion shown through the Services, the relevant advertiser may infer that you fall within its target audience.
 
-We only keep your data for as long as We need to in order to use it as described above, and/or for as long as We have your permission to keep it. In any event, We will conduct an annual review to ascertain whether we need to keep your data. Your data will be deleted if we no longer need it.
+## 5. Cookies and Similar Technologies
 
-Your data will only be stored within the European Economic Area ("the EEA") (The EEA consists of all EU member states, plus Norway, Iceland and Liechtenstein).
+Cookies are small files stored on your device. We and certain partners use cookies and similar technologies — such as web beacons and pixel tags — to recognise you, remember your preferences, measure the performance of features and campaigns, carry out analytics, and support fraud prevention and security.
 
-Data security is of great importance to Us, and to protect your data We have put in place suitable physical, electronic and managerial procedures to safeguard and secure data collected through Our Site.
+Most browsers accept cookies by default, and you can usually adjust your settings to refuse or remove them. Some features rely on cookies, however, so disabling them may limit your ability to use parts of the Services. Web beacons cannot be declined individually, but blocking cookies generally renders them ineffective.
 
-## Do We Share Your Data?
+"Do Not Track" is a browser setting that signals a preference not to be tracked. There is currently no common industry standard for responding to these signals, and we do not respond to them at this time.
 
-We may share your data with other companies in our group. This includes Our subsidiaries and/or Our holding company and its subsidiaries.
+Where required by law, we will obtain your consent before placing non-essential cookies on your device.
 
-We may contract with third parties to supply products and services to you on Our behalf. These may include payment processing, delivery of goods, search engine facilities, advertising and marketing. In some cases, the third parties may require access to some or all of your data.
+## 6. On-Chain Information Is Public
 
-We may compile statistics about the use of Our Site including data on traffic, usage patterns, user numbers, sales and other information. All such data will be anonymised and will not include any personally identifying information.
+Public blockchains are, by design, open and transparent. Information recorded on-chain — which may include your wallet's public address, the positions and transactions associated with it, and certain public profile details such as a username or account-creation date — is visible to anyone, can be copied and retained by third parties, and is generally permanent. It may also be accessed and re-shared through APIs, software development kits, block explorers, or other services that read the blockchain.
 
-In certain circumstances We may be legally required to share certain data held by Us, which may include your personal information, for example, where We are involved in legal proceedings or complying with the requirements of legislation, a court order, or a governmental authority.
+This is an inherent characteristic of blockchain technology rather than something we control, and it applies whether or not the person viewing it has an account with us. We cannot edit, delete, or reverse information once it has been written to a blockchain.
 
-## What Happens If Our Business Changes Hands?
+## 7. How We Share Information
 
-We may, from time to time, expand or reduce Our business and this may involve the sale and/or the transfer of control of all or part of Our business. Data provided by users will, where it is relevant to any part of Our business so transferred, be transferred along with that part and the new owner or newly controlling party will, under the terms of this Privacy Policy, be permitted to use the data for the purposes for which it was originally collected by Us.
+We share personal information only as described in this Policy, including in the following circumstances:
 
-## How Do You Control Your Data?
+- **Service providers.** With vendors and partners who perform functions on our behalf — such as cloud hosting, analytics, customer support, identity verification, and fraud detection — under obligations to protect the information and use it only for the services they provide to us.
+- **Connected accounts and platforms.** Where you authorise a connection between the Services and a third-party account, wallet, or platform, we may exchange relevant information with that third party. Information shared in this way is then governed by that third party's own privacy practices, so please review their notice before authorising a connection.
+- **Within our corporate group.** With our parent, affiliates, subsidiaries, and entities under common control with us, to help operate and improve the Services.
+- **Corporate transactions.** If we are involved in a merger, acquisition, financing, reorganization, sale of assets, insolvency, or similar event, your information may be transferred as part of that transaction.
+- **Legal and safety reasons.** With courts, regulators, law-enforcement, or other authorities where we are required to do so by law or valid legal process, or where we reasonably believe disclosure is necessary to comply with law, prevent harm or financial loss, report suspected unlawful activity, or investigate breaches of our Terms.
+- **Aggregated or anonymised data.** With others in a form that does not identify you, to describe and improve the Services or for other lawful purposes.
 
-When you submit information via Our Site, you may be given options to restrict Our use of your data. We aim to give you strong controls on Our use of your data (including the ability to opt-out of receiving emails from Us which you may do by unsubscribing using the links provided in Our emails and by managing your Account).
+We will not disclose any payment-card or bank-account number except with your express permission or where compelled by valid legal process. We do not transmit your personal information to third-party social networks unless you ask or authorise us to; once you broadcast information to such a network, it is governed by that network's own terms and policies.
 
-### Your Right to Withhold Information and Your Right to Withdraw Information After You Have Given it
+## 8. Third-Party Links, Analytics, and Advertising
 
-You may access certain areas of Our Site without providing any data at all. However, to use all features and functions available on Our Site you may be required to submit or allow for the collection of certain data.
+The Services may link to, or let you connect with, third-party sites, applications, and services that we do not control. We are not responsible for their content or privacy practices, and any information you provide to them is not covered by this Policy. We encourage you to read the privacy notice of any third party before sharing information with it.
 
-You may restrict your internet browser's use of Cookies.
+We may use third-party analytics and advertising providers, including, but not limited to Google Ads, Meta pixels, and TikTok pixels, to understand how the Services are used, measure the effectiveness of campaigns, and, where applicable, deliver interest-based advertising. These providers may use cookies, pixel tags, and similar technologies, and may combine the information they collect across sites and over time. Their use of information is governed by their own privacy policies, which often include options to opt out of certain data collection or interest-based advertising. By using the Services, you consent, to the extent permitted by applicable law, to this processing.
 
-You may withdraw your consent for Us to use your personal data at any time by contacting Us, and We will delete Your data from Our systems. However, you acknowledge this may limit Our ability to provide the best possible products and services to you.
+## 9. Children
 
-## How Can You Access Your Data?
+The Services are intended only for people aged 18 or over and are not directed at children. We do not knowingly collect personal information from anyone under 18. If we learn that we have collected such information, we will delete it promptly unless we are legally required to keep it. If you believe a person under 18 has provided us with information, please contact us at [privacy@sports.com](mailto:privacy@sports.com)
 
-You have the legal right to ask for a copy of any of your personal data held by Us (where such data is held). Please contact Us for more details at [support@sports.com](mailto:support@sports.com).
+## 10. How We Protect and Store Information
 
-## Cookies
+We use administrative, technical, and physical safeguards — such as access controls, firewalls, and encryption — designed to protect personal information, and we limit access to staff who need it to do their jobs. No method of transmitting or storing data is completely secure, however, and we cannot guarantee that information will never be accessed, disclosed, altered, or destroyed despite our efforts. Any transmission of information is at your own risk, so please take your own precautions — in particular, never share your wallet keys, seed phrase, or passwords with anyone. We are not responsible for the circumvention of any security or privacy measures within the Services.
 
-Our Site may place and access certain first party Cookies on your computer or device. First party Cookies are those placed directly by Us and are used only by Us. We use Cookies to facilitate and improve your experience of Our Site and to provide and improve Our products and services.
+## 11. Retaining and Deleting Information
 
-By using Our Site you may also receive certain third party Cookies on your computer or device. Third party Cookies are those placed by websites, services, and/or parties other than Us. We use third party Cookies on Our Site for promoting, marketing, and advertising services. In addition, Our Site uses analytics services which also use Cookies.
+We retain personal information only for as long as necessary to fulfil the purposes described in this Policy, comply with legal and regulatory obligations, resolve disputes, enforce our agreements, and protect the integrity and security of the Services. Please note that information written to a public blockchain cannot be deleted (see Section 6).
 
-## Summary of Your Rights Under GDPR
+| **Category of Information**                                                                                            | **Retention Period**                                                                     |
+|------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| Account registration information (name, email, username, account details)                                              | For the duration of the account relationship and up to 7 years following account closure |
+| Identity verification (KYC) records, sanctions screening results, and source-of-funds documentation                    | Up to 10 years following the end of the customer relationship                            |
+| Transaction records, trading activity, market participation history, wallet connection records, and settlement records | Up to 10 years following the relevant transaction or account closure                     |
+| Blockchain analytics, sanctions screening, and fraud monitoring records                                                | Up to 10 years following account closure or investigation conclusion                     |
+| Customer support communications and correspondence                                                                     | Up to 5 years following resolution of the matter                                         |
+| Security logs, authentication logs, device information, and access records                                             | Up to 24 months from collection unless required for an ongoing investigation             |
+| Geolocation verification records and jurisdictional compliance checks                                                  | Up to 5 years following collection                                                       |
+| Marketing preferences and consent records                                                                              | For the duration of the consent and up to 5 years following withdrawal of consent        |
+| Survey responses and promotional campaign participation records                                                        | Up to 3 years following collection                                                       |
+| Aggregated or anonymized information                                                                                   | Indefinitely, provided it cannot reasonably identify an individual                       |
 
-Under the GDPR, you have:
+Where required by applicable law, regulatory guidance, court order, legal hold, investigation, dispute, or enforcement proceeding, we may retain information beyond the periods stated above.
 
-- The right to request access to, deletion of or correction of, your personal data held by Us
-- The right to complain to a supervisory authority
-- Be informed of what data processing is taking place
-- The right to restrict processing
-- The right to data portability
-- Object to processing of your personal data
-- Rights with respect to automated decision-making and profiling
+At the end of the applicable retention period, we will securely delete, anonymize, or otherwise render personal information inaccessible, unless retention remains necessary for a lawful purpose.
 
-To enforce any of the foregoing rights or if you have any other questions about Our Site or this Privacy Policy, please contact Us using the details below.
+## 12. International Transfers
 
-## Automated Decision Making and Profiling
+Your personal information may be processed and stored in countries other than the one in which you live, where data-protection laws may differ from those in your own jurisdiction. By using the Services, you consent to such transfers. Where we transfer personal information internationally, we take steps reasonably necessary to ensure it remains protected in line with this Policy and applicable law. You should be aware that, in some countries, courts, regulators, or authorities may be entitled to access information held there. Where required, transfers are protected using Standard Contractual Clauses (SCCs), adequacy decisions, or other lawful transfer mechanisms.
 
-In the event that We use personal data for the purposes of automated decision-making and those decisions have a legal (or similarly significant effect) on You, You have the right to challenge such decisions under GDPR, requesting human intervention, expressing their own point of view, and obtaining an explanation of the decision from Us.
+## 13. Fraud and Market Integrity Monitoring
 
-This right does not apply in the following circumstances:
+We may monitor activity for market manipulation, collusion, abusive trading practices, account misuse, multi-accounting, wash trading, or other activity that may compromise the integrity of the Services. We may disclose information to regulators, law enforcement, self-regulatory organizations, and market surveillance bodies where necessary to investigate fraud, market abuse, sanctions violations, or unlawful activity.
 
-- The decision is necessary for the entry into, or performance of, a contract between You and Us
-- The decision is authorised by law
-- You have given explicit consent
+## 14. Your Privacy Rights
 
-Where We use your personal data for profiling purposes, the following shall apply:
+Depending on where you live and the law that applies to you, you may have some or all of the following rights in relation to your personal information. Where the law does not grant a particular right for your situation, we may provide it at our discretion.
 
-- Clear information explaining the profiling will be provided, including its significance and the likely consequences
-- Appropriate mathematical or statistical procedures will be used
-- Technical and organisational measures necessary to minimise the risk of errors and to enable such errors to be easily corrected shall be implemented
-- All personal data processed for profiling purposes shall be secured in order to prevent discriminatory effects arising out of profiling
+- **Access.** Request a copy of the personal information we hold about you.
+- **Correction.** Ask us to correct information that is inaccurate or incomplete.
+- **Deletion (erasure).** Ask us to delete personal information we hold about you.
+- **Objection.** Object to certain processing of your personal information.
+- **Restriction.** Ask us to restrict how we process your personal information.
+- **Portability.** Receive certain personal information in a structured, commonly used, machine-readable format.
+- **Withdraw consent.** Where we rely on your consent, withdraw it at any time; this does not affect processing carried out before withdrawal.
 
-## California Consumer Privacy Act and California Privacy Rights Act
+To exercise any of these rights, email us at [privacy@sports.com](mailto:privacy@sports.com) and tell us which right you wish to use. We may need to verify your identity before acting on a request, and your rights may be subject to limits under applicable law — for example, where a request is unfounded or excessive, where granting it would harm another person's privacy, or where we are required or permitted by law to retain the information. We will respond within the timeframe required by applicable law. Note that some information may be impossible to remove completely — in particular, on-chain information described in Section 6.
 
-If you are a California resident, you have the following rights under the California Consumer Privacy Act ("CCPA") and California Privacy Rights Act ("CPRA"):
+If you are in the European Economic Area, the United Kingdom, Switzerland, or Brazil, you also have the right to complain to your local data-protection supervisory authority if you believe our handling of your personal information breaches applicable law.
 
-- **Right to Know.** You may request details on what personal data we collect, use, and share.
-- **Right to Delete.** You can request deletion of personal data, subject to certain legal exceptions.
-- **Right to Correct.** You may request corrections to inaccurate personal information.
-- **Right to Opt-Out.** You can opt out of the sale or sharing of personal data for advertising.
-- **Right to Restrict Sensitive Data Use.** You may limit the use of sensitive personal information.
-- **Right Against Retaliation.** The Company will not discriminate against you for exercising your rights.
+## 15. Communication Preferences
 
-To opt out of the disclosure of your personal information, send your request to [support@sports.com](mailto:support@sports.com) with the subject "Opt-Out".
+You can opt out of marketing emails at any time by using the "unsubscribe" link in any such message, or by emailing [privacy@sports.com](mailto:privacy@sports.com) with "Unsubscribe" in the subject line. Even if you opt out of marketing, we may still send you administrative or transactional messages relating to your account, as these are necessary to provide the Services.
 
-## Contacting Us
+## 16. Changes to This Policy
 
-If you have any questions about Our Site or this Privacy Policy, please contact Us by email at [support@sports.com](mailto:support@sports.com). Please ensure that your query is clear, particularly if it is a request for information about the data We hold about you.
+We may update this Policy from time to time. When we do, we will revise the "last updated" date at the top of this page, and any changes take effect once posted. Your continued use of the Services after that point means you accept the updated Policy. We encourage you to review this page periodically; staying informed of changes is your responsibility. If you do not agree with an update, please stop using the Services.
 
-## Changes to Our Privacy Policy
+## 17. Contact Us
 
-We may change this Privacy Policy as we may deem necessary from time to time, or as may be required by law. Any changes will be immediately posted on Our Site and you will be deemed to have accepted the terms of the Privacy Policy following the alterations. We recommend that you check this page regularly to keep up-to-date.
+If you have any comments, questions, or requests about this Policy or your personal information, please email us at [privacy@sports.com](mailto:privacy@sports.com)
